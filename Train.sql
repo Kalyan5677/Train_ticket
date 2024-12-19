@@ -1,0 +1,1 @@
+select train_name from train_tab;
